@@ -88,7 +88,9 @@ function TicTacToc() {
       >
         Reset Game
       </button>
-
+  <p className="text-center text-xs text-white pt-8 w-full">
+        © 2026 Hiren Siyodia. All rights reserved.
+      </p>
     </div>
   );
 }
